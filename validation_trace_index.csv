@@ -1,0 +1,15 @@
+filename,center_freq_hz,samp_rate,gain_db,condition,repeat,phase,duration_s
+validation\idle\cf120MHz_idle_v1_60s.cfile,120000000,500000,49.6,idle,1,validation,60
+validation\idle\cf120MHz_idle_v2_60s.cfile,120000000,500000,49.6,idle,2,validation,60
+validation\load\cf120MHz_load_v1_60s.cfile,120000000,500000,49.6,load,1,validation,60
+validation\load\cf120MHz_load_v2_60s.cfile,120000000,500000,49.6,load,2,validation,60
+
+validation\idle\cf150MHz_idle_v1_60s.cfile,150000000,500000,49.6,idle,1,validation,60
+validation\idle\cf150MHz_idle_v2_60s.cfile,150000000,500000,49.6,idle,2,validation,60
+validation\load\cf150MHz_load_v1_60s.cfile,150000000,500000,49.6,load,1,validation,60
+validation\load\cf150MHz_load_v2_60s.cfile,150000000,500000,49.6,load,2,validation,60
+
+validation\idle\cf200MHz_idle_v1_60s.cfile,200000000,500000,49.6,idle,1,validation,60
+validation\idle\cf200MHz_idle_v2_60s.cfile,200000000,500000,49.6,idle,2,validation,60
+validation\load\cf200MHz_load_v1_60s.cfile,200000000,500000,49.6,load,1,validation,60
+validation\load\cf200MHz_load_v2_60s.cfile,200000000,500000,49.6,load,2,validation,60

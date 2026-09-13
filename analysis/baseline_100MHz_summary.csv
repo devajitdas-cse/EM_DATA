@@ -1,0 +1,2 @@
+center_freq_hz,center_freq_mhz,mean_abs_delta_psd_db,js_divergence,cohens_d_bandpower,n_idle_files,n_load_files
+100000000,100.0,7.9643842801718945,0.005987652190193963,2.988118790527883,1,1

@@ -1,0 +1,3 @@
+filename,center_freq_hz,samp_rate,gain_db,condition,repeat,phase,duration_s
+baseline\idle\cf100MHz_idle_b1_60s.cfile,100000000,500000,49.6,idle,1,baseline,60
+baseline\load\cf100MHz_load_b1_60s.cfile,100000000,500000,49.6,load,1,baseline,60
